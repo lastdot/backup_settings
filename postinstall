@@ -1,0 +1,3 @@
+fstab: noatime
+logind.conf: user processes
+fontconfig: lcd filter

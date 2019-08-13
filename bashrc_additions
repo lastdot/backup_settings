@@ -1,0 +1,6 @@
+export PS1='\W[\j]\$ '
+alias vim='nvim'
+alias rvim='nvim -Z'
+alias view='nvim -R'
+alias rview='nvim -RZ'
+
