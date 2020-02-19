@@ -2,3 +2,4 @@ fstab: noatime
 logind.conf: user processes
 fontconfig: lcd filter
 ssd: fstrim.timer
+packagekit: mask 2
