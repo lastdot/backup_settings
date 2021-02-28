@@ -1,9 +1,0 @@
-{
-    "editor.minimap.enabled": false,
-    "window.menuBarVisibility": "toggle",
-    "editor.fontSize": 19,
-    "terminal.integrated.fontSize": 17,
-    "python.linting.pylintPath": "/usr/bin/pylint-3",
-    "python.formatting.autopep8Path": "/usr/bin/autopep8-3",
-    "workbench.startupEditor": "newUntitledFile"
-}
